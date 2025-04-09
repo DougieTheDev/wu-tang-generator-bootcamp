@@ -4,4 +4,4 @@
 
 I completed the challenge: 5<br>
 I feel good about my code: 4<br>
-I spent a good amount of time trying to put logic on server side until i read directions again and realized it wasn't in the directions to do so. This one was more tricky than the last two but once I figured out the names i wanted to use and how to convert the strings inputted to numbers so I can create a determined outcome when the same characters are submitted 
+I spent a good amount of time trying to put logic on server side until i read directions again and realized it wasn't in the directions to do so. This one was more tricky than the last two but once I figured out the names i wanted to use and how to convert the strings inputted initial to a number so I can create a determined outcome when the same characters are submitted 
